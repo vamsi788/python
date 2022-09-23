@@ -35,3 +35,18 @@ day 3
 9.pattern
 10.operations
 
+
+
+
+DAY 4
+1.arrays
+2.student users
+3.smaller number than current number
+4.polindrome
+5.array of int
+6.function declaration
+7.count vowels
+8.romen to int
+9.seasons
+10.scramble string
+
