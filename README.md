@@ -10,6 +10,8 @@ day 1
 8.valid number
 9.array
 10.ch eqal to freqency
+
+
 day2
 1.staircase
 2.leap year
