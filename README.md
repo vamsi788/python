@@ -68,3 +68,6 @@ day 5
 10.reverse woirds in string
 
 
+DAY 6:1.
+
+
