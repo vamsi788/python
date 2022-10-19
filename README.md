@@ -68,6 +68,16 @@ day 5
 10.reverse woirds in string
 
 
-DAY 6:1.
+revision:
+1.valid number
+2.array
+3.strings
+4.if conditions
+5.remove words
+6.anagrams
+7.two strings
+8.scramble string
+9.shuffling
+10.reverse words
 
 
