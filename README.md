@@ -80,4 +80,9 @@ revision:
 9.shuffling
 10.reverse words
 
+revision day 2
+1.selling bread
+2.isomorphic
+3.values
+4.fibonacci
 
