@@ -85,4 +85,9 @@ revision day 2
 2.isomorphic
 3.values
 4.fibonacci
+5.vowels
+6.sorted strings
+7.binary strings
+9.basic calculator2
+10.mobile keypad
 
